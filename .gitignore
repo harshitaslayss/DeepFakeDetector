@@ -1,0 +1,13 @@
+# Ignore dataset folders
+FF++/
+output_frames/
+data/
+
+# Ignore model weights
+*.pth
+*.pt
+*.h5
+*.ckpt
+
+# Ignore gradio cache
+.gradio/
