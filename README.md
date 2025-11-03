@@ -18,8 +18,3 @@ Model Overview
 - Dataset: FaceForensics++
 - Task: Binary classification (real vs fake)
 
----
-
-Setup & Usage
-```bash
-pip install -r requirements.txt
